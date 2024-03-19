@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716604255746",
+    "project_id": "cloudstorageassignment-3bfcc",
+    "storage_bucket": "cloudstorageassignment-3bfcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716604255746:android:25db231a8de25cc94e811b",
+        "android_client_info": {
+          "package_name": "com.example.cloudstorageassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1asiOJmd4LsKUybO7jdJ5gSQa_nAmKhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
